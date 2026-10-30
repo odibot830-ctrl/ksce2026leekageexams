@@ -1,0 +1,13 @@
+{
+  "name": "knec-official-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node preview.mjs"
+  }
+}
